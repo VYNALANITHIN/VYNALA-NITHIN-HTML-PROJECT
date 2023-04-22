@@ -1,0 +1,32 @@
+<html >
+ <head>
+<html>
+<head>
+ <div style="height:650px;width:1330px;background-color:blue;border:solid black 10px;background-image:url('blue1.gif');Background-size:1350px 650px;">
+ <a href="Mm.html"><h3><em><label style="color:white;font-size:25px;padding-left:30px;padding-top:30px;">BACK</h3></em></a>
+ </head>
+ <body>
+<table style="padding-left:500px;padding-top:20px;">
+
+<td>
+
+<fieldset style="width:300px;height:30px;color:white;padding-left:50px;background-image:url('bird.jpg');Background-size:400px 450px;border-radius:13px;box-shadow:0px 30px 30px black;"><em><label style="color:white;padding-left:65px;font-size:25px;">TUTORIAL</label></em></fieldset>
+<br></br>
+<fieldset style="width:337px;height:30px;color:white;background-image:url('bird.jpg');Background-size:400px 450px;border-radius:13px;box-shadow:0px 30px 30px black;"><em><label style="color:white;padding-left:50px;font-size:25px;">SOUND SETTINGS</label></em></fieldset>
+<br></br>
+
+<fieldset style="width:337px;height:30px;color:white;background-image:url('bird.jpg');Background-size:400px 450px;border-radius:13px;box-shadow:0px 30px 30px black;"><em><label style="color:white;padding-left:50px;font-size:25px;">GRAPHICS SETTINGS</label></em></fieldset>
+<br></br>
+
+<fieldset style="width:337px;height:30px;color:white;background-image:url('bird.jpg');Background-size:400px 450px;border-radius:13px;box-shadow:0px 30px 30px black;"><em><label style="color:white;padding-left:100px;font-size:25px;">CONTROLS</label></em></fieldset>
+
+<br></br>
+
+<fieldset style="width:337px;height:30px;color:white;background-image:url('bird.jpg');Background-size:400px 450px;border-radius:13px;box-shadow:0px 30px 30px black;"><em><label style="color:white;padding-left:100px;font-size:25px;">ABOUT US</label></em></fieldset>
+ </td>
+</table>
+
+ </div>
+
+ </body>
+</html>

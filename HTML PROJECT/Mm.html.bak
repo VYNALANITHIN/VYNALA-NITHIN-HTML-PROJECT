@@ -1,0 +1,30 @@
+
+<html>
+<head>
+ <div style="height:650px;width:1330px;background-color:blue;border:solid black 10px;background-image:url('blue1.gif');Background-size:1350px 650px;">
+<center> <table>
+ <td style="padding-top:15px;"><em><h1><label style="color:lime;font-size:60px;">PR</label></h1></em></td>
+ <td><img src="cricket.png"width="45px"height="45px"></td>
+<td style="padding-top:15px;"><em><h1><label style="color:white;font-size:60px;">CRICKET</label></h1></em>
+ </td></table></center>
+ </head>
+ <body>
+<table style="padding-left:100px;padding-top:20px;">
+
+<td style="padding-right:10px;">
+
+<a href="play now.html"><fieldset style="width:300px;height:437px;color:white;padding-left:50px;background-image:url('rohit sharma3.png');Background-size:400px 455px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label style="color:white;padding-left:50px;">PLAY NOW</label></em></h3></a></fieldset></td>
+<td><a href="ex1.html"><fieldset style="width:300px;height:200px;color:white;background-image:url('virat kohli.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label style="color:white;padding-left:50px;">EXHIBITION</label></em></h3></a></fieldset>
+<br>
+<a href="career mode.html"><fieldset style="width:300px;height:200px;color:white;background-image:url('Dhoni.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label >MY CAREER MODE</label></em></h3></fieldset></a>
+<td style="padding-left:10px;"><a href="online mode.html"><fieldset style="width:300px;height:200px;color:white;background-image:url('devillers.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label>ONLINE MODE</label></em></h3></fieldset></a>
+<br>
+
+<a href="settings.html"><fieldset style="width:300px;height:200px;color:white;background-image:url('sureshraina.jpg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label>SETTINGS</label></em></h3></fieldset></a>
+ </td>
+</table>
+
+ </div>
+
+ </body>
+</html>

@@ -1,0 +1,32 @@
+
+<html>
+<head>
+ <div style="height:650px;width:1330px;background-color:blue;border:solid black 10px;background-image:url('blue1.gif');Background-size:1350px 650px;">
+<a href="Mm.html"><h3><em><label style="color:white;font-size:25px;padding-left:30px;padding-top:30px;">BACK</h3></em></a>
+ </head>
+ <body>
+<table style="padding-left:150px;padding-top:60px;">
+
+<td>
+
+<fieldset style="width:300px;height:200px;color:white;background-image:url('Max well.webp');Background-size:365px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label style="color:white;padding-left:50px;">TWENTY-TWENTY</label></em></h3></fieldset></td>
+<td><fieldset style="width:300px;height:200px;color:white;background-image:url('gilchrist.jpeg');Background-size:400px 300px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label style="color:white;padding-left:50px;">ONE-DAY</label></em></h3></fieldset>
+
+</td>
+<td>
+<fieldset style="width:300px;height:200px;color:white;background-image:url('kevin pieterson.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label style="color:white;padding-left:50px;">TEST-SERIES</label></em></h3></fieldset></td>
+</table>
+<table style="padding-left:150px;">
+<td><fieldset style="width:300px;height:200px;color:white;background-image:url('chris gayle.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label >IPL-MATCH</label></em></h3></fieldset></td>
+
+<td><fieldset style="width:300px;height:200px;color:white;background-image:url('jadeja.jpg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label>WORLD-TOUR</label></em></h3></fieldset></td>
+
+
+<td><fieldset style="width:300px;height:200px;color:white;background-image:url('kane williamson.jpeg');Background-size:400px 250px;border-radius:15px;box-shadow:0px 30px 30px black;"><h3><em><label>CUSTOM-MATCH</label></em></h3></fieldset>
+ </td>
+</table>
+
+ </div>
+
+ </body>
+</html>
